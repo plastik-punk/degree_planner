@@ -1,5 +1,7 @@
+import gui.main_window as main
+
 def run():
-    print("Hello World")
+    main.run()
 
 if __name__ == "__main__":
     run()
